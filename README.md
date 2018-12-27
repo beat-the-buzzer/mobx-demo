@@ -25,3 +25,6 @@
 #### other API
 
  - observe
+ - spy
+ - toJS
+ - trace

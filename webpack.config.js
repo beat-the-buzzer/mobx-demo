@@ -2,7 +2,7 @@ const path = require('path');
 
 const config = {
   mode: 'development',
-  entry: path.resolve(__dirname, 'src/index.jsx'),
+  entry: path.resolve(__dirname, 'src/use-mobx-react/trace.jsx'),
   output: {
     path: path.resolve(__dirname,'dist'),
     filename: 'main.js'
